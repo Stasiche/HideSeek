@@ -1,0 +1,1 @@
+С решениями можно ознакомится с помощью jupyter ноутбуков Test_task/MountainCar-V0/main.ipynb и Test_task/MountainCarContinuous-V0/main.ipynb 
