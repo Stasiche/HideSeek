@@ -1,0 +1,12 @@
+agent0:, reducer sqrt, sv: True, rsc: 300 
+agent1:, reducer sqrt, sv: True, rsc: 1000 
+agent2:, reducer sqrt, sv: True, rsc: 3000 
+agent3:, reducer sqrt, sv: False, rsc: 300 
+agent4:, reducer sqrt, sv: False, rsc: 1000 
+agent5:, reducer sqrt, sv: False, rsc: 3000 
+agent6:, reducer line, sv: True, rsc: 300 
+agent7:, reducer line, sv: True, rsc: 1000 
+agent8:, reducer line, sv: True, rsc: 3000 
+agent9:, reducer line, sv: False, rsc: 300 
+agent10:, reducer line, sv: False, rsc: 1000 
+agent11:, reducer line, sv: False, rsc: 3000 
